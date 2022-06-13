@@ -55,6 +55,7 @@
 <p>Конечная точка. Адрес на который отправляются сообщения. </p>
 
 <h4>URL (URI, URL, URN)</h4>
+<p> URL, URN - это подмножество URI</p>
 <p> URI - Uniform Resource Identifier (унифицированный идентификатор ресурса)</p>
 <p> URL - Uniform Resource Locator (унифицированный определитель местонахождения ресурса)</p>
 <p> URN - Unifrorm Resource Name (унифицированное имя ресурса)</p>
